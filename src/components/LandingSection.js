@@ -15,7 +15,7 @@ const LandingSection = () => (
     isDarkBackground
     backgroundColor="#2A4365"
   >
-
+    
   </FullScreenSection>
 );
 
